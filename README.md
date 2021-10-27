@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# [책] 리액트 200제 study를 위한 repository
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
