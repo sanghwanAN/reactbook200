@@ -1,9 +1,9 @@
 import './App.css';
-import LifecycleEx from './R008_LifecycleEx'
+import Es6 from './R009_Es6'
 function App() {
   return (
     <div>
-    <LifecycleEx prop_value='FromApp.js'/>
+    <Es6/>
     </div>
   );
 }
