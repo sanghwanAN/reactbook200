@@ -1,4 +1,14 @@
 # [책] 리액트 200제 study를 위한 repository
+
+|Date|Chapter No.|내용|
+|:---:|:---:|:--|
+|2021-10-28|No.008|함수 실행순서  <br/> 1. constructr <br/> 2. getDerivedStateFromProps <br/> 3. render <br/> 4. componentDidMount <br/> 5. shouldComponentUpdate <br/> shouldComponentUpdate 는 boolean 유형을 반환 / 참 일때 render를 한번 더 호출 |
+|2021-10-28|No.008|오른쪽정렬|
+|2021-10-28|No.008|오른쪽정렬|
+|2021-10-28|No.008|오른쪽정렬|
+|2021-10-28|No.008|오른쪽정렬|
+|2021-10-28|No.008|오른쪽정렬|
+<!-- 
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,4 +78,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `yarn build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->

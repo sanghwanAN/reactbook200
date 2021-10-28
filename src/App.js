@@ -1,9 +1,9 @@
 import './App.css';
-import ImportConponent from './R005_LifecycleEx'
+import LifecycleEx from './R008_LifecycleEx'
 function App() {
   return (
     <div>
-     <ImportConponent></ImportConponent>
+    <LifecycleEx prop_value='FromApp.js'/>
     </div>
   );
 }
