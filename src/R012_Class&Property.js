@@ -18,7 +18,22 @@ class R012_ClassProperty extends Component {
     })();
 
     var cnt = new ExamCountFunc("200");
+
     cnt.showNum();
+
+    var testCountFucn = (function () {
+      function testCount(num) {
+        this.number = num;
+      }
+      testCount.prototype.testShowNum = function () {
+        console.log("3.복습 만들어보기_ " + this.number);
+      };
+      return testCount;
+    })();
+
+    var cnt3 = new testCountFucn("6576");
+
+    cnt3.testShowNum();
 
     //ES6 class
     class ExamCountClass {
