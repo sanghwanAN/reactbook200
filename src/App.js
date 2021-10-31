@@ -1,9 +1,9 @@
-import './App.css';
-import Es6 from './R009_Es6'
+import "./App.css";
+import Es6 from "./R012_Class&Property";
 function App() {
   return (
     <div>
-    <Es6/>
+      <Es6 />
     </div>
   );
 }
