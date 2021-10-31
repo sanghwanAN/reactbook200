@@ -1,9 +1,9 @@
 import "./App.css";
-import Es6 from "./R012_Class&Property";
+import ArrowFunc from "./R013_ArrowFunction";
 function App() {
   return (
     <div>
-      <Es6 />
+      <ArrowFunc />
     </div>
   );
 }

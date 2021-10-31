@@ -5,7 +5,7 @@
 |2021-10-28|No.008|함수 실행순서  <br/> 1. constructr <br/> 2. getDerivedStateFromProps <br/> 3. render <br/> 4. componentDidMount <br/> 5. shouldComponentUpdate <br/> shouldComponentUpdate 는 boolean 유형을 반환 / 참 일때 render를 한번 더 호출 |
 |2021-10-28|No.009|startsWith, endsWith, includes 함수 학습|
 |2021-10-31|No.012|es5의 prototype 과 es6의 class 비교 사용법 학습|
-|2021-10-28|No.008|오른쪽정렬|
+|2021-10-31|No.013|arrow function에 대해서 <br/> 1. 콜백 함수 내부에서는 this로 접근 불가( 콜밸함수 내부에서 this 는 window)<br/> 2. 콜백 함수 박에서 this를 바인드 해주면 가능 <br/> 3. 화살표 함수에서는 this를 bind 안해도 사용 가능 |
 |2021-10-28|No.008|오른쪽정렬|
 |2021-10-28|No.008|오른쪽정렬|
 <!-- 
