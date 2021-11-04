@@ -1,9 +1,9 @@
 import "./App.css";
-import ArrowFunc from "./R013_ArrowFunction";
+import ForEach from "./R014_ForEach";
 function App() {
   return (
     <div>
-      <ArrowFunc />
+      <ForEach />
     </div>
   );
 }
