@@ -1,9 +1,9 @@
 import "./App.css";
-import ForEach from "./R014_ForEach";
+import Map from "./R015_Map";
 function App() {
   return (
     <div>
-      <ForEach />
+      <Map />
     </div>
   );
 }
