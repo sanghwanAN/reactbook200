@@ -1,9 +1,9 @@
 import "./App.css";
-import Map from "./R015_Map";
+import Props from "./R017_Props";
 function App() {
   return (
     <div>
-      <Map />
+      <Props props_val="this is props"/>
     </div>
   );
 }
