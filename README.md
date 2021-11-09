@@ -9,6 +9,7 @@
 | 2021-11-04 |   No.014    | forEach <br/> 배열의 처음부터 마지막 까지 모두 작업하는 경우 간편(특정 순번에만 배열값 사용 할 경우 - for문 사용) <br/>                                                                                                                          |
 | 2021-11-05 |   No.015    | map에 대해 학습                                                                                                                                                                                                                                  |
 | 2021-11-06 |   No.017    | props <br/> 부모 컴포넌트가 자식 컴포넌트에 데이터를 전달 할 때 사용                                                                                                                                                                             |
+| 2021-11-09 |   No.018    | props 자료형 선언하기 <br/> react 기본 내장 패키지인 prop-types 사용법 학습                                                                                                                                                                      |
 
 <!--
 ## Getting Started with Create React App
