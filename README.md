@@ -12,7 +12,8 @@
 | 2021-11-09 |   No.018    | props 자료형 선언하기 <br/> react 기본 내장 패키지인 prop-types 사용법 학습                                                                                                                                                                      |
 | 2021-11-13 |   No.019    | props Boolean으로 사용하기 <br/> props 값을 Boolean형으로 하위컴포넌트에 전달 학습 <br/> props 변수를 선언 후 값을 할당하지 않고 넘기면 true가 기본값으로 할당 된다.                                                                             |
 | 2021-11-13 |   No.020    | props 객체형으로 사용하기 <br/> props 갮을 객체로 하위 컴포넌트에 전달 학습 / shape 사용법 학습                                                                                                                                                  |
-| 2021-11-13 |   No.022    | props 기본값으로 정의하기 <br/> 부모 컴포넌트에서 값을 안 넣었을 때 디폴트 값 정의 / defaultProps 사용                                                                                                                                           |
+| 2021-11-13 |   No.020    | props 객체형으로 사용하기 <br/> props 갮을 객체로 하위 컴포넌트에 전달 학습 / shape 사용법 학습                                                                                                                                                  |
+| 2021-11-13 |   No.023    | props의 자식 컴포넌트에 node 전달하기 <br/> this.props.children 문법 사용 해서 접근                                                                                                                                                              |
 
 <!--
 ## Getting Started with Create React App
