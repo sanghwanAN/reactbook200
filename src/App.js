@@ -1,14 +1,13 @@
 import React from 'react';
 import './App.css';
-import PropsBoolean from './R019_PropsBoolean'
+import PropsObjVal from './R020_PropsObjVal'
 
 function App() {
   return (
     <div>
       <h1>Start React 200!</h1>
       <p>CSS 적용하기</p>
-      <PropsBoolean BooleanTrueFalse={false}></PropsBoolean>
-      <PropsBoolean BooleanTrueFalse></PropsBoolean>
+      <PropsObjVal ObjectJson={{react : "리엑트" , twohundered : "200"}}></PropsObjVal>
     </div>
   );
 }
