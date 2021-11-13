@@ -14,6 +14,7 @@
 | 2021-11-13 |   No.020    | props 객체형으로 사용하기 <br/> props 갮을 객체로 하위 컴포넌트에 전달 학습 / shape 사용법 학습                                                                                                                                                  |
 | 2021-11-13 |   No.020    | props 객체형으로 사용하기 <br/> props 갮을 객체로 하위 컴포넌트에 전달 학습 / shape 사용법 학습                                                                                                                                                  |
 | 2021-11-13 |   No.023    | props의 자식 컴포넌트에 node 전달하기 <br/> this.props.children 문법 사용 해서 접근                                                                                                                                                              |
+| 2021-11-13 |   No.023    | State 사용하기 <br/> 하나의 컴포넌트 안에서 전역 변수처럼 사용한다.                                                                                                                                                                              |
 
 <!--
 ## Getting Started with Create React App
