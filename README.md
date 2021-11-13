@@ -16,7 +16,7 @@
 | 2021-11-13 |   No.023    | props의 자식 컴포넌트에 node 전달하기 <br/> this.props.children 문법 사용 해서 접근                                                                                                                                                                         |
 | 2021-11-13 |   No.024    | State 사용하기 <br/> 하나의 컴포넌트 안에서 전역 변수처럼 사용한다.                                                                                                                                                                                         |
 | 2021-11-13 |   No.025    | setState() 사용하기 <br/> setState()이용해서 state 값 변경 - render()를 자동으로 다시 호출                                                                                                                                                                  |
-| 2021-11-13 |   No.027    | { Component } 와 { PureComponent } 차이 비교<br/> { Component } - 비교 대상이 *완전히*동일하지 않으면 변경이 발생했다고 본다 <br/> { PureComponent } - 동일 하지 않으면 변경 했다고 본다.(불필요한 reder() 함수 실행 줄이면 페이지 성능 향상 시킬 수 있다.) |
+| 2021-11-13 | No.027,028  | { Component } 와 { PureComponent } 차이 비교<br/> { Component } - 비교 대상이 *완전히*동일하지 않으면 변경이 발생했다고 본다 <br/> { PureComponent } - 동일 하지 않으면 변경 했다고 본다.(불필요한 reder() 함수 실행 줄이면 페이지 성능 향상 시킬 수 있다.) |
 
 <!--
 ## Getting Started with Create React App
