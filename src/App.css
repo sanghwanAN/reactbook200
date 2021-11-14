@@ -1,5 +1,8 @@
-.App {
+.app {
+  min-height: 100vh;
+  /* color: #fff; */
   text-align: center;
+  /* background: tomato; */
 }
 
 .App-logo {
