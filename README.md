@@ -19,6 +19,7 @@
 | 2021-11-13 | No.027,028  | { Component } 와 { PureComponent } 차이 비교<br/> { Component } - 비교 대상이 *완전히*동일하지 않으면 변경이 발생했다고 본다 <br/> { PureComponent } - 동일 하지 않으면 변경 했다고 본다.(불필요한 reder() 함수 실행 줄이면 페이지 성능 향상 시킬 수 있다.) |
 | 2021-11-14 |    No.30    | 함수형 컴포넌트 사용법 이해 - props를 지역 변수에 할당 해서 사용 / 클래스 컴포넌트와 달리 props 앞에 this가 붙지 않는다.                                                                                                                                    |
 | 2021-11-14 |    No.31    | hook / 사용법 이해 - useEffect()함수는 componentDidMount()와 같은 실행 순서(최초 로딩 될 때 한번, setState()함수로 state 값이 변경되면 한번 더 실행 됨)                                                                                                     |
+| 2021-11-14 |    No.33    | map()으로 element 반환하기 - 사용법 이해                                                                                                                                                                                                                    |
 
 <!--
 ## Getting Started with Create React App
