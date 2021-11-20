@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import ReactRef from './R073_ReactRef'
+import Currying from './R074_ReactCurrying'
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 function App() {
@@ -8,7 +8,7 @@ function App() {
     <div className="app">
       <h1>Start React 200!</h1>
       <p>CSS 적용하기</p>
-      <ReactRef/>
+      <Currying/>
     </div>
   );
 }
