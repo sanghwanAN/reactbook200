@@ -30,6 +30,7 @@
 | 2021-11-20 |    No.064    | promise then 사용 <br/> 동기적 구현 할 때 사용 코드 가독성, 예외처리 쉽게 사용가능 <br/>대기, 이행, 거부 의 개념이 있음. <br/> 이행 상태로 변할 때 then 사용                                                                                                |
 | 2021-11-20 |    No.065    | promise catch 사용 <br/> 거부 상태가 됬을 때 catch 함수 실행                                                                                                                                                                                                |
 | 2021-11-20 | No.066 ~ 072 | onEvent 사용법 학습(onKeyDown,onKeyPress,onKeyUp 차이점 정리) <br/> a,ctrl키 눌렀을 때 <br/> onKeyDown - 공백, a 출력<br/>, onKeyPress - 공백, 출력 되지 않음 <br/>, onKeyUp - 모두 a 가 출력                                                               |
+| 2021-11-20 |    No.073    | Ref 사용하기 <br/> 1. element에 ref 속성 추가 <br/> 2. Ref 에 참조에 대한 정보가 ref의 current라는 속성에 할당 된다.                                                                                                                                        |
 
 <!--
 ## Getting Started with Create React App
