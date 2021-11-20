@@ -21,6 +21,7 @@
 | 2021-11-14 |    No.031    | hook / 사용법 이해 - useEffect()함수는 componentDidMount()와 같은 실행 순서(최초 로딩 될 때 한번, setState()함수로 state 값이 변경되면 한번 더 실행 됨)                                                                                                     |
 | 2021-11-14 |    No.033    | map()으로 element 반환하기 - 사용법 이해                                                                                                                                                                                                                    |
 | 2021-11-14 | No.034 ~ 058 | react bootstrap 설치 및 컴포넌트 사용법 숙지. 그대로 다 따라 쳐 봄                                                                                                                                                                                          |
+| 2021-11-20 |    No.059    | 자바스크립트 내장 함수인 fetch 함수로 get 방식 호출 방법 학습 async, await 사용 할 때 학습                                                                                                                                                                  |
 
 <!--
 ## Getting Started with Create React App
