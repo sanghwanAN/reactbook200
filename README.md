@@ -25,6 +25,7 @@
 | 2021-11-20 |    No.059    | 자바스크립트 내장 함수인 fetch 함수로 get 방식 호출 방법 학습 async, await 사용 할 때 학습                                                                                                                                                                  |
 | 2021-11-20 |    No.060    | 자바스크립트 내장 함수 fetch 함수로 post 방식 호출법 학습                                                                                                                                                                                                   |
 | 2021-11-20 |    No.061    | Axios 함수로 get 방식 호출 방법, 사용법 학습                                                                                                                                                                                                                |
+| 2021-11-20 |    No.062    | Axios 함수로 post 방식 호출 방법, 사용법 학습                                                                                                                                                                                                               |
 
 <!--
 ## Getting Started with Create React App
