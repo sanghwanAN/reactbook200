@@ -32,6 +32,7 @@
 | 2021-11-20 | No.066 ~ 072 | onEvent 사용법 학습(onKeyDown,onKeyPress,onKeyUp 차이점 정리) <br/> a,ctrl키 눌렀을 때 <br/> onKeyDown - 공백, a 출력,<br/> onKeyPress - 공백, 출력 되지 않음 ,<br/> onKeyUp - 모두 a 가 출력                                                               |
 | 2021-11-20 |    No.073    | Ref 사용하기 <br/> 1. element에 ref 속성 추가 <br/> 2. Ref 에 참조에 대한 정보가 ref의 current라는 속성에 할당 된다.                                                                                                                                        |
 | 2021-11-20 |    No.074    | 커링 함수 구현하기 <br/> 함수의 재사용을 위해 함수 자체를 return 하는 함수. <br/> 함수를 분리할 수 있으므로 파라미터도 나눠 전달 할 수 있다.                                                                                                                |
+| 2021-11-22 |    No.075    | 하이오더 컴포넌트 구현하기 <br/> 커링과 같이 함수 자체를 인자로 받거나 반환하는 함수라 하는데, 이와 비슷하게 컴포넌트를 인자로 받거나 반환하는 함수를 고차 컴포넌트(HOCm Higher-Order Component)라고 한다.                                                  |
 
 <!--
 ## Getting Started with Create React App
