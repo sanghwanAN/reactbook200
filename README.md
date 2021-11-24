@@ -37,6 +37,7 @@
 | 2021-11-24 | No.078 ~ 083 | redux 스토어 사용하기 - 실습                                                                                                                                                                                                                                |
 | 2021-11-24 |    No.084    | redux 미들웨어 사용하기 - 액션을 dispath 함수로 전달하고 리듀서가 실행되기 전과 실행된 후에 처리되는 기능                                                                                                                                                   |
 | 2021-11-24 |    No.085    | react-cookies 의 save 함수 사용법 학습                                                                                                                                                                                                                      |
+| 2021-11-24 |    No.086    | react-cookies 의 load 함수 사용법 학습 - key로 접근해 value를 가져오는 함수                                                                                                                                                                                 |
 
 <!--
 ## Getting Started with Create React App
