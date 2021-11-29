@@ -13,7 +13,7 @@ import Footer from './Footer/Footer';
 // login
 import LoginForm from './LoginForm';
 
-import reactProxy from './R109_reactProxy';
+import ApiGetJson from './R110_ApiGetJson';
 
 class App extends Component {
   render () {
@@ -21,7 +21,7 @@ class App extends Component {
       <div className="App">
         <HeaderAdmin/> 
         <Route exact path='/' component={LoginForm} />
-        <Route exact path='/reactProxy' component={reactProxy} />
+        <Route exact path='/ApiGetJson' component={ApiGetJson} />
         <Footer/>
       </div>
     );
